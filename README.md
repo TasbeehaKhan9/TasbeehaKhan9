@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Tailwind CSS, JavaScript (Advanced), and Node.js Also enrolled in SMIT’s Web and Mobile App Development course.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TasbeehaKhan9](https://github.com/TasbeehaKhan9)
+- 👨‍💻 All of my projects are available at [https://github.com/TasbeehaKhan9](https://github.com/TasbeehaKhan9) https://app.netlify.com/teams/tasbeehakhan9/projects
 
 - 💬 Ask me about **Frontend (HTML, CSS, JavaScript, ), Backend (Node.js, Express),**
 
