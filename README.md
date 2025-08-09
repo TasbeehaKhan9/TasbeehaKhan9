@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasbeehakhan9" alt="tasbeehakhan9" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Tailwind CSS, JavaScript (Advanced), and Node.js Also enrolled in SMIT’s Web and Mobile App Development course.**
+- 🌱 I’m currently learning ** HTML, CSS,  JavaScript (Advanced), ReactJS, Tailwind CSS and Node.js Also enrolled in SMIT’s Web and Mobile App Development course.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TasbeehaKhan9](https://github.com/TasbeehaKhan9) https://app.netlify.com/teams/tasbeehakhan9/projects
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tasbeehakhan05@gmail.com**
 
-- ⚡ Fun fact **I can design a full mobile app flow faster than I make a cup of chai! ☕**
+- ⚡ Fun fact **I can design a full Desktop website  flow faster than I make a cup of chai! ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
